@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by k
+ *
  * Return: 0
  */
 
