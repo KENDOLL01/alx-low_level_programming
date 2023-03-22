@@ -16,7 +16,7 @@ unsigned int i;
 		return;
 
 		for (i = 0; i < size; i++)
-	i{
+	{
 		action(array[i]);
 	}
 }
